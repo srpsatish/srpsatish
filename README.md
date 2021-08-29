@@ -1,7 +1,7 @@
 ### Hi there , I'm Satish 👋
-<br />
+
 <img align="left" alt="Most Used Languages" src="https://komarev.com/ghpvc/?username=srpsatish&color=dc143c" />
-<br />
+
 ## I'm a Front End Developer, Web enthusiast, a happy person and I love what I do!!
 
 <!--
