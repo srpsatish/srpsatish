@@ -1,6 +1,5 @@
 ### Hi there , I'm Satish 👋
 
-<br>
 
 ## I'm a Front End Developer, Web enthusiast, a happy person and I love what I do!!
 
