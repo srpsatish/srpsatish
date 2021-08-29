@@ -6,7 +6,7 @@
 
 <br>
 
-## I'm a Front End Developer, Web enthusiast, a happy person and I love what I do!!
+## I'm a Front End Developer, Web enthusiast, and I love what I do!!
 
 <!--
 - 🔭 I’m currently working on ...
